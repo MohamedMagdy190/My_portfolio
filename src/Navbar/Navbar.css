@@ -1,0 +1,4 @@
+/* Custom styles for Navbar if needed */
+.navbar-link-active {
+    color: #f59e0b; /* amber-500 */
+}
